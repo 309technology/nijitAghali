@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NijatAghali
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning nodeJS for back-end development and reactJS for front-end development
+- 👋 Hi, I’m Nijat Aghali
+- 👀 I’m interested in Data Science and Full Stack Development
+- 🌱 I’m currently learning fundamentals of Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - nicat_agali2002@mail.ru
 
