@@ -1,2 +1,2 @@
 
-Nijat Aghali - 3rd year Computer Science Student
+Nijat Aghali - last year Computer Science Student at UFAZ
